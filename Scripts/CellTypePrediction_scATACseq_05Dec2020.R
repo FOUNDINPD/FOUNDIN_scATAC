@@ -127,8 +127,3 @@ Idents(hm.integrated) <- hm.integrated$BroadCellTypeV2
 
 
 saveRDS(hm.integratedBackup,file = paste0(pathto.outData,"iPSCsDopa_scATACseq_hm.integratedAfterBroadCellTypeV2.RDS"))
-
-
-
-
-
